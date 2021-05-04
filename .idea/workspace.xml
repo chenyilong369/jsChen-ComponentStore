@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92b31545-a154-4d13-9137-43b957a9eab5" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/button.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu/menu.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu/subMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kty4georX65yFpdW5R75AKDujL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.默认语言" />
+    <property name="ts.external.directory.path" value="E:\html,js,css\learnts\course\my-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92b31545-a154-4d13-9137-43b957a9eab5" name="默认的" comment="" />
+      <created>1606533994297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606533994297</updated>
+      <workItem from="1606534024740" duration="637000" />
+      <workItem from="1606534744668" duration="4325000" />
+      <workItem from="1607329323668" duration="902000" />
+      <workItem from="1607330326147" duration="2506000" />
+      <workItem from="1607343560725" duration="3471000" />
+      <workItem from="1607393627566" duration="9298000" />
+      <workItem from="1611293579933" duration="3485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="263" key="#ESLint" timestamp="1611293878136">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="575" y="263" key="#ESLint/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611293878136" />
+    <state x="575" y="263" key="#ESLint/0.0.1366.768@0.0.1366.768" timestamp="1607329455954" />
+    <state x="415" y="6" key="#TypeScript" timestamp="1607397262694">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="415" y="6" key="#TypeScript/0.0.1366.768/1366.-174.1536.864@0.0.1366.768" timestamp="1607397262694" />
+    <state x="309" y="62" key="#检查" timestamp="1611295827042">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="309" y="62" key="#检查/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611295827042" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1607340733873">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1607340733873" />
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom" timestamp="1611297111712">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611297111712" />
+    <state width="1322" height="185" key="GridCell.Tab.0.center" timestamp="1611297111712">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.center/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611297111712" />
+    <state width="1322" height="185" key="GridCell.Tab.0.left" timestamp="1611297111712">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.left/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611297111712" />
+    <state width="1322" height="185" key="GridCell.Tab.0.right" timestamp="1611297111712">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.right/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611297111712" />
+    <state x="263" y="127" key="IDE.errors.dialog" timestamp="1607329462756">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="127" key="IDE.errors.dialog/0.0.1366.768@0.0.1366.768" timestamp="1607329462756" />
+    <state x="197" y="43" width="998" height="708" key="SettingsEditor" timestamp="1611294652672">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="197" y="43" width="998" height="708" key="SettingsEditor/0.0.1366.768/1366.-122.1536.864@0.0.1366.768" timestamp="1611294652672" />
+    <state x="127" y="0" key="SettingsEditor/0.0.1366.768/1366.-174.1536.864@0.0.1366.768" timestamp="1607404015605" />
+    <state x="218" y="27" width="998" height="708" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1607330947224" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606538297702">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1606538297702" />
+  </component>
+</project>
