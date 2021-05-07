@@ -14,12 +14,27 @@ $blue: #0d6efd !default;
 $indigo: #6610f2 !default;
 $purple: #6f42c1 !default;
 $pink: #ff7ebe !default;
-$red: #dc3545 !default;
+$red: #d83545 !default;
 $orange: #fd7e14 !default;
 $yellow: #fadb14 !default;
 $green: #52c41a !default;
 $teal: #20c997 !default;
 $cyan: #17a2b8 !default;
+
+$error: #fff2f0 !default;
+$success: #f6ffed !default;
+$info: #e6f7ff !default;
+$warning: #fffbe6 !default;
+
+$error-border: #ffccc7 !default;
+$warning-border: #ffe58f !default;
+$success-border: #b7eb8f !default;
+$info-border: #91d5ff !default;
+
+$error-icon: #ff4d4f !default;
+$success-icon: #52c41a !default;
+$info-icon: #1890ff !default;
+$warning-icon: #faad14 !default;
 
 $primary: $blue !default;
 $secondary: $gray-600 !default;
@@ -287,3 +302,16 @@ $progress-bg: $gray-200 !default;
 $progress-border-radius: $border-radius !default;
 $progress-bar-color: $white !default;
 $progress-bar-transition: width 0.6s ease !default;
+
+
+// text
+$text-color: fade($black, 85%);
+$font-feature-settings-base: 'tnum';
+
+// margin
+$margin-lg: 24px; 
+$margin-md: 16px;
+$margin-sm: 12px; 
+$margin-xs: 8px; 
+$margin-xss: 4px; 
+$margin-xsss: 2px;

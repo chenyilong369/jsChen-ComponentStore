@@ -1,0 +1,93 @@
+.jsChen-alert-container {
+  display: flex;
+  position: relative;
+  align-items: baseline;
+  border: 1px solid greenyellow;
+  border-radius: $border-radius;
+  margin-bottom: $margin-md;
+  background-color: $error;
+
+  .jsChen-alert-center {
+    display: flex;
+    justify-content: center;
+    margin: $margin-xs;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0;
+    word-break: break-all;
+  }
+
+  .icon {
+    display: inline-block;
+    margin: $margin-xs $margin-xs $margin-xs $margin-md;
+  }
+
+  .closeIcon {
+    display: inline-block;
+    margin: $margin-xs $margin-md $margin-xs $margin-xs;
+    color: $gray-600;
+    font-size: $font-size-base;
+  }
+
+  .inner-description {
+    margin-top: 10px;
+    line-height: $font-size-base;
+    font-size: $font-size-base;
+  }
+
+  .inner-message {
+    color: $text-color;
+  }
+}
+
+.error {
+  background-color: $error;
+}
+
+.success {
+  background-color: $success;
+}
+
+.warning {
+  background-color: $warning;
+}
+
+.info {
+  background-color: $info;
+}
+
+.error-border {
+  border: 1px solid $error-border;
+}
+
+.success-border {
+  border: 1px solid $success-border;
+}
+
+.info-border {
+  border: 1px solid $info-border;
+}
+
+.warning-border {
+  border: 1px solid $warning-border;
+}
+
+.error-icon {
+  color: $error-icon;
+}
+
+.warning-icon {
+  color: $warning-icon;
+}
+
+.success-icon {
+  color: $success-icon;
+}
+
+.info-icon {
+  color: $info-icon;
+}
+
+.icon-large {
+  font-size: $font-size-lg;
+}

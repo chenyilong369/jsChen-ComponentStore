@@ -9,6 +9,7 @@ import AutoComplete from './components/AutoComplete/autoComplete'
 import Progress from './components/Progress/progress'
 import Upload from './components/Upload/upload'
 import Icon from './components/Icon/icon'
+import Alert from './components/Alert/alert'
 
 function App() {
   const handleFetch = (query: string) => {
@@ -52,6 +53,7 @@ function App() {
           onSelect={(index) => {
             alert(`clicked ${index} item`)
           }}
+          mode="vertical"
         >
           <MenuItem>cool link</MenuItem>
           <MenuItem disabled>disabled</MenuItem>
@@ -77,6 +79,7 @@ function App() {
           <br />
           <p>Drag file over to upload</p>
         </Upload>
+        <Alert closeText='111' message="jsChen" description="sdsdsdsdsdsd" closeable showIcon/>
       </header>
     </div>
   )
